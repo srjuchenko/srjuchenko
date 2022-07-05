@@ -2,9 +2,10 @@
 
 - 👀 I’m interested in programming, gaming, tech and football.
 
-- 🌱 I’m currently learning at H.I.T "Holon Institute of Technology" (computer science)
+- 👨‍🎓 I’m currently learning Computer Science at H.I.T "Holon Institute of Technology".
 
 - 📫 How to reach me: https://www.linkedin.com/in/sergey-juchenko/. 
+
 
 
 
